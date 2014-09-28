@@ -1,0 +1,28 @@
+{
+  "name": "football",
+  "version": "0.0.0",
+  "description": "A few years ago, I had to manage a football tournment and we used a lot of paper. This atempts to solve that.",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "*",
+    "gulp": "^3.6.2",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-concat": "^2.2.0",
+    "gulp-jade": "^0.5.0",
+    "gulp-jshint": "^1.8.4",
+    "gulp-load-plugins": "^0.6.0",
+    "gulp-ng-annotate": "^0.3.0",
+    "gulp-ruby-sass": "0.7.1",
+    "gulp-uglify": "^0.2.1",
+    "gulp-util": "^2.2.19",
+    "karma": "^0.12.23",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}

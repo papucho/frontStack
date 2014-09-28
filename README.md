@@ -1,16 +1,8 @@
-# Football (soccer) match manager
+# frontStack
 
-A few years ago, I had to manage a football tournment and we used a lot of paper.
-This atempts to solve that.
+A list of gulp tasks to help with the front-end development.
 
-## Features (for the manager point-of-view)
-
-- add teams
-- add player info
-- add mathes
-- within a match:
-	- add goals
-  - make player's substitution
-  - add cards
-- tournment goal's list
-- tournment card's list
+Current stack:
+  - Jade
+  - Sass
+  - Karma w/jasmine
